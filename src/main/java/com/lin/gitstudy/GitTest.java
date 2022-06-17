@@ -2,6 +2,6 @@ package com.lin.gitstudy;
 
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("Hello Gitee Master!");
+        System.out.println("Hello Gitee Master!!");
     }
 }
