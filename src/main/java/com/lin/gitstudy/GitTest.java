@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("Hello Git3!");
         System.out.println("Hello Git4_hot-fix!");
         System.out.println("hot-fix commit");
+        System.out.println("hot-fix last commit");
     }
 }
